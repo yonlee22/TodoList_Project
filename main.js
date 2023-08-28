@@ -118,5 +118,6 @@ function filter(event) {
 function randomIDGenerate() {
     return '_' + Math.random().toString(36).substr(2, 9);
     }
-
+// 두번째 프로젝트 :할일 앱 만들기. 
+// 좀더티엘한거 section  5 밑에 과제로 남겨주심 마저 끝내서웹사이트로 올리기. 
 
